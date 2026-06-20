@@ -18,7 +18,19 @@ Horizon Canvas automates this process:
 
 ---
 
-## 2. Key Features & Controls
+## 2. Installation & Quick Start
+
+Horizon Canvas is built and compiled into a single standalone executable using Enigma Virtual Box.
+*   **No Installation Required:** You do **not** need to install python dependencies, compile libraries, or configure local paths.
+*   **How to Run:**
+    1.  Go to the **Releases** page of this repository and download the latest `HorizonCanvas.exe`.
+    2.  Place the `.exe` inside any writable folder on your computer (e.g. `Desktop\Horizon Canvas`).
+    3.  Double-click `HorizonCanvas.exe` to launch the application.
+    4.  *Note:* For memory injection, you may need to right-click the `.exe` and select **Run as Administrator** to allow process-level RAM access.
+
+---
+
+## 3. Key Features & Controls
 
 | Feature                     | Description                                                                    | End-User Benefit                                                       |
 | :-------------------------- | :----------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
@@ -31,7 +43,7 @@ Horizon Canvas automates this process:
 
 ---
 
-## 3. How to Prepare Your Template in Forza Horizon 6 (Crucial)
+## 4. How to Prepare Your Template in Forza Horizon 6 (Crucial)
 
 Before you can write vector graphics into the game's active RAM, you must prepare a "template" canvas containing enough shapes for Horizon Canvas to overwrite.
 
@@ -49,7 +61,7 @@ Before you can write vector graphics into the game's active RAM, you must prepar
 
 ---
 
-## 4. Preprocessing Modes Guide
+## 5. Preprocessing Modes Guide
 
 Before drawing shapes, select a preprocessing filter to clean or prepare your target image:
 
@@ -61,7 +73,7 @@ Before drawing shapes, select a preprocessing filter to clean or prepare your ta
 
 ---
 
-## 5. Step-by-Step Instructions
+## 6. Step-by-Step Instructions
 
 ### Step 1: Generate the Shapes
 
@@ -97,7 +109,7 @@ Before drawing shapes, select a preprocessing filter to clean or prepare your ta
 
 ---
 
-## 6. Detailed Troubleshooting FAQ
+## 7. Detailed Troubleshooting FAQ
 
 | Problem                                    | Potential Cause                                         | How to Fix                                                                                                                       |
 | :----------------------------------------- | :------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,7 +121,7 @@ Before drawing shapes, select a preprocessing filter to clean or prepare your ta
 
 ---
 
-## 7. Dos and Don'ts
+## 8. Dos and Don'ts
 
 ### ✅ DO
 
@@ -125,7 +137,7 @@ Before drawing shapes, select a preprocessing filter to clean or prepare your ta
 
 ---
 
-## 8. Safety & Ban Disclaimer
+## 9. Safety & Ban Disclaimer
 
 **Use this software entirely at your own risk.**
 
@@ -135,7 +147,7 @@ However, **any live process memory modification is a violation of the Microsoft 
 
 ---
 
-## 9. Credits & Acknowledgements
+## 10. Credits & Acknowledgements
 
 Horizon Canvas is built upon the discoveries, research, and open-source contributions of the Forza painting and procedural generation developer community:
 
